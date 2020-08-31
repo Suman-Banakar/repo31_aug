@@ -28,3 +28,4 @@ then
     echo "100001" > ./CA/serial
     echo "CA reset successful"
 fi
+#dsa
